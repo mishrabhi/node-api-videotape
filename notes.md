@@ -26,3 +26,11 @@
 => app.use //read about it on express docs.
 
 => Nodejs API error
+
+=> Refresh Token in user models.
+
+=> bcrypt => a library to help your hash passwords.
+
+=> jwt: json web token(bearer tokens).Read more on doc.
+
+=> mongoose-aggregate-paginate-v2 := Allows to write aggregation queries. Read more on mongoose docs
