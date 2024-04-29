@@ -5,9 +5,17 @@ dotenv.config({
   path: "./env",
 });
 
-connectDB();
+connectDB()
+  .then(() => {
+    app.listen(process.env.PORT || 8000, () => {
+      console.log("Server is up and running at port: ${process.env.PORT}");
+    });
+  })
+  .catch((err) => {
+    console.log("MONGO DB connection failed!!", err);
+  });
 
-// one approach for the db connection:
+// one approach for the db connection where we dont need seprate db folder:
 
 // import express from "express";
 // const app = express();

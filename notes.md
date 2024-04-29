@@ -18,3 +18,11 @@
 => process.exit(1) => read it out on nodejs doc.
 
 => While updating or changing env variables.Auto-restart will not happen, have to do it manually.
+
+=> Cookie parser
+
+=> Cors
+
+=> app.use //read about it on express docs.
+
+=> Nodejs API error
