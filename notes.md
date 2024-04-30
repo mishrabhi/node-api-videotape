@@ -34,3 +34,9 @@
 => jwt: json web token(bearer tokens).Read more on doc.
 
 => mongoose-aggregate-paginate-v2 := Allows to write aggregation queries. Read more on mongoose docs
+
+=> multer => for uploading files //read through repo of multer
+
+=> Cloudinary //its an sdk. Used as service to upload file.
+
+=> fs: file system (Read more on node docs)
