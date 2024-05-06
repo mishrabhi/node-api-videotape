@@ -3,7 +3,7 @@
 ### .prettierrc :
 
 - Prettier is an opinionated code formatter.
-- Install it using [command](https://prettier.io/docs/en/install)
+- Install it using [prettier](https://prettier.io/docs/en/install)
 - You can configure Prettier via a "prettier" key in your package.json file.
 - Basic Configuration:
 
