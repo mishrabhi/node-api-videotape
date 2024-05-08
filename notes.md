@@ -107,3 +107,5 @@ npm install mongoose-aggregate-paginate-v2
   5.Rename files
 
   - [Read More](https://nodejs.org/api/fs.html#file-system)
+
+  //Select method
